@@ -1,0 +1,2 @@
+# XZsnps
+SNP heterogeneity characterization
